@@ -4,8 +4,8 @@ reids
 *　见网页介绍　
 *　启动
 ```
-	*　配置好环境变量
-	*　切换到目录　redis-server.exe redis.windows.conf --maxheap 200m
+　配置好环境变量
+  切换到目录　redis-server.exe redis.windows.conf --maxheap 200m
 ```
 ```java
 打开一个 cmd 窗口 使用cd命令切换目录到 C:\redis 运行 redis-server.exe redis.windows.conf 。
