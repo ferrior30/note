@@ -1,8 +1,8 @@
-reids
+# reids
 ---
 # 安装
 - 见网页介绍　
-- 启动
+* 启动
 ```
 　配置好环境变量
   切换到目录　redis-server.exe redis.windows.conf --maxheap 200m
